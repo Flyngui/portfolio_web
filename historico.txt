@@ -1,0 +1,49 @@
+c0cbd99 change 3
+fa9daab change 2
+e19f742 change 1
+1879809 added index.html
+85cd519 added readme
+commit e19f742d0efb87f52202fff0e68d1c3cf4630ee1
+Author: guiferre <guilhermemlopes812@gmail.com>
+Date:   Fri Mar 27 15:21:53 2026 +0000
+
+    change 1
+
+diff --git a/index.html b/index.html
+index c4b764c..a369fbd 100644
+--- a/index.html
++++ b/index.html
+@@ -15,9 +15,9 @@
+ 			<th>Curso</th>
+ 		</tr>
+ 		<tr>
+-			<td>João</td>
++			<td>Guilherme</td>
+ 			<td>22</td>
+-			<td>TPSI</td>
++			<td>IPSantarem</td>
+ 		</tr>
+ 		<tr>
+ 			<td>Miguel</td>
+diff --git a/index.html b/index.html
+index c4b764c..669c853 100644
+--- a/index.html
++++ b/index.html
+@@ -15,13 +15,13 @@
+ 			<th>Curso</th>
+ 		</tr>
+ 		<tr>
+-			<td>João</td>
++			<td>Guilherme</td>
+ 			<td>22</td>
+-			<td>TPSI</td>
++			<td>IPSantarem</td>
+ 		</tr>
+ 		<tr>
+-			<td>Miguel</td>
+-			<td>19</td>
++			<td>Antonio</td>
++			<td>25</td>
+ 			<td>TPSI</td>
+ 		</tr>
+ 	</table>
